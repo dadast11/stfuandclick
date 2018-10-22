@@ -1,2 +1,0 @@
-# stfuandclick
-clicks ui
